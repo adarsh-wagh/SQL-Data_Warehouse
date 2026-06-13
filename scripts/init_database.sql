@@ -1,11 +1,12 @@
 /*
-____________________________________
+_______________________________________________________________________________________
 Creating Dtabase And Schemas
-____________________________________
+_______________________________________________________________________________________
 Script purpose:
 	--Creates a New Database called "DataWarehouse" after checking if it already exists.
 	--If a Database called "DataWarehouse" already exists, It is Dropped and Re-Created.
 	--Creates three Schemas called "bronze","silver", and "gold"
+_______________________________________________________________________________________
 */
 
 
