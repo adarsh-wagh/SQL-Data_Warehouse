@@ -1,7 +1,7 @@
 /*
-___________________________________________
+__________________________________________________________________________________________________
 Stored Procedure: Loading Bronze Layer Data
-___________________________________________
+__________________________________________________________________________________________________
 Script purpose:
 	--Creates a Stored Procedure to load Data into the "bronze" schema from an external CSV file.
 	--Truncates the Bronze Tables before loading data.
@@ -9,7 +9,7 @@ Script purpose:
 
 Use:
   EXEC bronze.load_bronze;
-____________________________________________
+__________________________________________________________________________________________________
 */
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
