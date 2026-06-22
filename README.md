@@ -12,7 +12,7 @@ The solution integrates CRM and ERP source data, applies data quality transforma
 
 ## Project Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](docs/Architecture.png)
 
 ### Bronze Layer
 
