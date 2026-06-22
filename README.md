@@ -74,7 +74,7 @@ The ETL process is implemented using SQL Server stored procedures and follows a 
 
 ## Power BI Dashboard
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/Dashboard.png)
 
 ### Key Metrics
 
